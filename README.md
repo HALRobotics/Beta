@@ -7,3 +7,7 @@ The best way for us to correct issues is to be able to reproduce them ourselves 
 Therefore we ask tht you please refer to the [Contribution guideline](https://github.com/HALRobotics/Beta/blob/master/CONTRIBUTING.md) before submitting bug reports or enhancement requests.
 
 The more feedback you give, the more errors you find, the more issues you report, the faster we can get the HAL Robotics Framework to a stable release and, more importantly, the more influence you will have over the final product so it does exactly what you want in the way you want.
+
+# Relevant issue 
+## Common issues to all GH plugins 
+[Compatibility between plugin](https://github.com/HALRobotics/Beta/issues/22)
