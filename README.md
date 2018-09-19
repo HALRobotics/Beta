@@ -8,6 +8,5 @@ Therefore we ask tht you please refer to the [Contribution guideline](https://gi
 
 The more feedback you give, the more errors you find, the more issues you report, the faster we can get the HAL Robotics Framework to a stable release and, more importantly, the more influence you will have over the final product so it does exactly what you want in the way you want.
 
-# Relevant issue 
-## Common issues to all GH plugins 
+#### Common issues to all GH plugins 
 [Compatibility between plugin](https://github.com/HALRobotics/Beta/issues/22)
