@@ -1,6 +1,9 @@
 # HAL Robotics Framework (β)
 HAL Robotics Framework beta release and associated documentation. This is also the repository for filing bug reports for the HAL Robotics Framework Beta releases.
 
+### Access
+Please follow the instructions on our [website](https://hal-robotics.com/getstarted/) to get the HAL Robotics Framework (β).
+
 # Improvements and Bug Reports
 We are going to continue our internal testing of all our software and will be releasing fixes as quickly as we can but we also need your help to stabilize the framework.
 The best way for us to correct issues is to be able to reproduce them ourselves and delve into the code to see what’s going wrong.
